@@ -1,0 +1,6 @@
+emotion,image_file,description
+happy,Yui_happy.png,積極、快樂（如「嘿！超開心！」）
+unhappy,Yui_unhappy.png,負面、失望（如「唉，有點失望…」）
+confused,Yui_confused.png,疑問、困惑（如「啥？不太懂耶！」）
+shock,Yui_shock.png,震驚、驚訝（如「真的假的！」）
+thinking,Yui_thinking.png,沉思、深思（如「我覺得你說得很對…」）
