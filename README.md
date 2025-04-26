@@ -26,8 +26,12 @@ python myDesktopAI.py
 
 ## Package to .exe
 ```
+pip install pyinstaller
 pyinstaller -F -i "pictures/Yui.ico" --name myAI --add-data "pictures;pictures" --add-data "*.txt;." --add-data "config.py;config.py" myDesktopAI.py
 ```
+
+## Conversation & emotion store in local
+Once "python myDesktopAI.py" or execute from .exe, the conversation & emotion data will store C:\Users\xxxx\.myAI, so conversation will continue with previous.
 
 ## License
 
